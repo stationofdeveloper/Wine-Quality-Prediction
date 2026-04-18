@@ -1,0 +1,2339 @@
+{
+  "book_id": "tasting",
+  "title": "Wine Tasting: A Professional Handbook (2nd Edition)",
+  "total_pages": 519,
+  "description": "\"Wine Tasting: A Professional Handbook\" is a comprehensive guide that covers the principles and techniques of wine tasting. The book provides an in-depth analysis of the sensory evaluation process, including appearance, odor, taste, and finish, to help professionals and enthusiasts develop their wine tasting skills. It serves as a reference for those working in the wine industry, including winemakers, sommeliers, and wine educators.",
+  "nodes": [
+    {
+      "title": "Wine Tasting: A Professional Handbook",
+      "node_id": "0000",
+      "start_page": 4,
+      "end_page": 4,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Copyright Page",
+      "node_id": "0001",
+      "start_page": 5,
+      "end_page": 5,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Dedication",
+      "node_id": "0002",
+      "start_page": 6,
+      "end_page": 7,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Table of Contents",
+      "node_id": "0003",
+      "start_page": 8,
+      "end_page": 15,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Preface",
+      "node_id": "0004",
+      "start_page": 16,
+      "end_page": 19,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Acknowledgments",
+      "node_id": "0005",
+      "start_page": 20,
+      "end_page": 21,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "About the Author",
+      "node_id": "0006",
+      "start_page": 22,
+      "end_page": 23,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter 1: Introduction",
+      "node_id": "0007",
+      "start_page": 24,
+      "end_page": 24,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Tasting Process",
+          "node_id": "0008",
+          "start_page": 24,
+          "end_page": 26,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Appearance",
+              "node_id": "0009",
+              "start_page": 27,
+              "end_page": 27,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Clarity",
+                  "node_id": "0010",
+                  "start_page": 27,
+                  "end_page": 27,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Color",
+                  "node_id": "0011",
+                  "start_page": 28,
+                  "end_page": 28,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Viscosity",
+                  "node_id": "0012",
+                  "start_page": 29,
+                  "end_page": 29,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Spritz",
+                  "node_id": "0013",
+                  "start_page": 29,
+                  "end_page": 29,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Tears",
+                  "node_id": "0014",
+                  "start_page": 29,
+                  "end_page": 29,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Odor",
+              "node_id": "0015",
+              "start_page": 29,
+              "end_page": 29,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Orthonsal (in glass) Odor",
+                  "node_id": "0016",
+                  "start_page": 29,
+                  "end_page": 36,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "In-mouth Sensations",
+              "node_id": "0017",
+              "start_page": 37,
+              "end_page": 37,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Taste and Mouth-feel",
+                  "node_id": "0018",
+                  "start_page": 37,
+                  "end_page": 38,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Odor-Retronasal",
+                  "node_id": "0019",
+                  "start_page": 39,
+                  "end_page": 40,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Finish",
+              "node_id": "0020",
+              "start_page": 41,
+              "end_page": 41,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Overall Quality",
+              "node_id": "0021",
+              "start_page": 42,
+              "end_page": 43,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Postscript",
+              "node_id": "0022",
+              "start_page": 44,
+              "end_page": 44,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "References",
+          "node_id": "0023",
+          "start_page": 45,
+          "end_page": 49,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Visual Perceptions",
+      "node_id": "0024",
+      "start_page": 50,
+      "end_page": 50,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Color",
+          "node_id": "0025",
+          "start_page": 50,
+          "end_page": 50,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Color Perception and Measurement",
+              "node_id": "0026",
+              "start_page": 50,
+              "end_page": 54,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Significance in Tasting",
+              "node_id": "0027",
+              "start_page": 55,
+              "end_page": 56,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Origin and Characteristics",
+              "node_id": "0028",
+              "start_page": 57,
+              "end_page": 57,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Red Wines\n",
+                  "node_id": "0029",
+                  "start_page": 57,
+                  "end_page": 62,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Roseacute Wines",
+                  "node_id": "0030",
+                  "start_page": 63,
+                  "end_page": 63,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "White Wines ",
+                  "node_id": "0031",
+                  "start_page": 63,
+                  "end_page": 63,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Clarity",
+          "node_id": "0032",
+          "start_page": 64,
+          "end_page": 64,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Crystals",
+              "node_id": "0033",
+              "start_page": 64,
+              "end_page": 64,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sediment",
+              "node_id": "0034",
+              "start_page": 65,
+              "end_page": 65,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Proteinaceous Haze",
+              "node_id": "0035",
+              "start_page": 66,
+              "end_page": 66,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Phenolic Haze",
+              "node_id": "0036",
+              "start_page": 66,
+              "end_page": 66,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Casse",
+              "node_id": "0037",
+              "start_page": 66,
+              "end_page": 66,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Deposits on Bottle Surfaces",
+              "node_id": "0038",
+              "start_page": 67,
+              "end_page": 67,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Microbial Spoilage",
+              "node_id": "0039",
+              "start_page": 67,
+              "end_page": 67,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Viscosity",
+          "node_id": "0040",
+          "start_page": 68,
+          "end_page": 68,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Spritz",
+          "node_id": "0041",
+          "start_page": 69,
+          "end_page": 70,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Tears",
+          "node_id": "0042",
+          "start_page": 71,
+          "end_page": 71,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0043",
+          "start_page": 72,
+          "end_page": 72,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0044",
+          "start_page": 72,
+          "end_page": 77,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Olfactory Sensations",
+      "node_id": "0045",
+      "start_page": 78,
+      "end_page": 78,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Olfactory System",
+          "node_id": "0046",
+          "start_page": 79,
+          "end_page": 79,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Nasal Passages",
+              "node_id": "0047",
+              "start_page": 79,
+              "end_page": 80,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Olfactory Epithelium, Receptor Neurons, and Cerebral Connections",
+              "node_id": "0048",
+              "start_page": 81,
+              "end_page": 87,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Odorants and Olfactory Stimulation",
+          "node_id": "0049",
+          "start_page": 88,
+          "end_page": 90,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Chemical Compounds Involved",
+          "node_id": "0050",
+          "start_page": 91,
+          "end_page": 91,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Acids",
+              "node_id": "0051",
+              "start_page": 92,
+              "end_page": 92,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Alcohols",
+              "node_id": "0052",
+              "start_page": 92,
+              "end_page": 92,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Aldehydes and Ketones",
+              "node_id": "0053",
+              "start_page": 92,
+              "end_page": 92,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Acetals",
+              "node_id": "0054",
+              "start_page": 93,
+              "end_page": 93,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Esters",
+              "node_id": "0055",
+              "start_page": 93,
+              "end_page": 93,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Hydrogen Sulfide and Organosulfur Compounds",
+              "node_id": "0056",
+              "start_page": 94,
+              "end_page": 94,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Hydrocarbon Derivatives",
+              "node_id": "0057",
+              "start_page": 95,
+              "end_page": 95,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Lactones and Other Oxygen Heterocycles",
+              "node_id": "0058",
+              "start_page": 96,
+              "end_page": 96,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Terpenes and Oxygenated Derivatives",
+              "node_id": "0059",
+              "start_page": 96,
+              "end_page": 96,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Phenolics",
+              "node_id": "0060",
+              "start_page": 97,
+              "end_page": 97,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Pyrazines and Other Nitrogen Heterocyclics",
+              "node_id": "0061",
+              "start_page": 98,
+              "end_page": 98,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Sensations from Trigeminal Nerve",
+          "node_id": "0062",
+          "start_page": 98,
+          "end_page": 98,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Vomeronasal Organ",
+          "node_id": "0063",
+          "start_page": 99,
+          "end_page": 99,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Odor Perception",
+          "node_id": "0064",
+          "start_page": 100,
+          "end_page": 109,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Sources of Variation in Olfactory Perception",
+          "node_id": "0065",
+          "start_page": 110,
+          "end_page": 119,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Odor Assessment in Wine Tasting",
+          "node_id": "0066",
+          "start_page": 120,
+          "end_page": 120,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Off-Odors",
+          "node_id": "0067",
+          "start_page": 121,
+          "end_page": 121,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Acetic Acid (Volatile Acidity)",
+              "node_id": "0068",
+              "start_page": 122,
+              "end_page": 122,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Baked",
+              "node_id": "0069",
+              "start_page": 122,
+              "end_page": 122,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Buttery",
+              "node_id": "0070",
+              "start_page": 122,
+              "end_page": 122,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Corky/Moldy",
+              "node_id": "0071",
+              "start_page": 122,
+              "end_page": 122,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Ethyl Acetate",
+              "node_id": "0072",
+              "start_page": 123,
+              "end_page": 123,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Ethyl Phenols",
+              "node_id": "0073",
+              "start_page": 123,
+              "end_page": 123,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Fusel",
+              "node_id": "0074",
+              "start_page": 124,
+              "end_page": 124,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Geranium-like",
+              "node_id": "0075",
+              "start_page": 124,
+              "end_page": 124,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Light Struck",
+              "node_id": "0076",
+              "start_page": 124,
+              "end_page": 124,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Mousy",
+              "node_id": "0077",
+              "start_page": 124,
+              "end_page": 124,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Oxidation",
+              "node_id": "0078",
+              "start_page": 125,
+              "end_page": 125,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Reduced-Sulfur Odors",
+              "node_id": "0079",
+              "start_page": 126,
+              "end_page": 126,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sulfur Odor",
+              "node_id": "0080",
+              "start_page": 127,
+              "end_page": 127,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Untypical Aging Flavor untypischen Alterungsnote, UTA)",
+              "node_id": "0081",
+              "start_page": 127,
+              "end_page": 127,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Vegetative Odors",
+              "node_id": "0082",
+              "start_page": 127,
+              "end_page": 127,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Other Off-Odors",
+              "node_id": "0083",
+              "start_page": 128,
+              "end_page": 128,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Chemical Nature of Varietal Aromas",
+          "node_id": "0084",
+          "start_page": 128,
+          "end_page": 133,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0085",
+          "start_page": 134,
+          "end_page": 134,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0086",
+          "start_page": 135,
+          "end_page": 151,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Taste and Mouth-Feel Sensations",
+      "node_id": "0087",
+      "start_page": 152,
+      "end_page": 152,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Taste",
+          "node_id": "0088",
+          "start_page": 153,
+          "end_page": 157,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Sweet, Umami, and Bitter Tastes",
+              "node_id": "0089",
+              "start_page": 158,
+              "end_page": 160,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sour and Salty Tastes (ASIC and ENaC Channels)",
+              "node_id": "0090",
+              "start_page": 161,
+              "end_page": 162,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Factors Influencing Taste Perception",
+          "node_id": "0091",
+          "start_page": 163,
+          "end_page": 163,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Physicochemical",
+              "node_id": "0092",
+              "start_page": 163,
+              "end_page": 163,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Chemical",
+              "node_id": "0093",
+              "start_page": 164,
+              "end_page": 165,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Biologic",
+              "node_id": "0094",
+              "start_page": 166,
+              "end_page": 167,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Psychologic",
+              "node_id": "0095",
+              "start_page": 168,
+              "end_page": 168,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Mouth-Feel",
+          "node_id": "0096",
+          "start_page": 169,
+          "end_page": 169,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Astringency",
+              "node_id": "0097",
+              "start_page": 170,
+              "end_page": 173,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Burning",
+              "node_id": "0098",
+              "start_page": 174,
+              "end_page": 174,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Temperature",
+              "node_id": "0099",
+              "start_page": 174,
+              "end_page": 174,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Prickling",
+              "node_id": "0100",
+              "start_page": 175,
+              "end_page": 175,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Body (Weight)",
+              "node_id": "0101",
+              "start_page": 176,
+              "end_page": 176,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Metallic",
+              "node_id": "0102",
+              "start_page": 177,
+              "end_page": 177,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Chemical Compounds Involved",
+          "node_id": "0103",
+          "start_page": 177,
+          "end_page": 177,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Sugars",
+              "node_id": "0104",
+              "start_page": 177,
+              "end_page": 177,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Alcohols",
+              "node_id": "0105",
+              "start_page": 178,
+              "end_page": 178,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Acids",
+              "node_id": "0106",
+              "start_page": 179,
+              "end_page": 179,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Phenolics",
+              "node_id": "0107",
+              "start_page": 180,
+              "end_page": 184,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Polysaccharides",
+              "node_id": "0108",
+              "start_page": 185,
+              "end_page": 185,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Nucleic Acids",
+              "node_id": "0109",
+              "start_page": 185,
+              "end_page": 185,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Taste and Mouth-Feel Sensations in Wine Tasting",
+          "node_id": "0110",
+          "start_page": 186,
+          "end_page": 186,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Appendix 4.1: Measuring Taste Bud Density",
+          "node_id": "0111",
+          "start_page": 187,
+          "end_page": 187,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0112",
+          "start_page": 188,
+          "end_page": 188,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0113",
+          "start_page": 189,
+          "end_page": 199,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Quantitative (Technical) Wine Assessment",
+      "node_id": "0114",
+      "start_page": 200,
+      "end_page": 204,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Selection and Training of Tasters",
+          "node_id": "0115",
+          "start_page": 205,
+          "end_page": 205,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Basis Requirements",
+              "node_id": "0116",
+              "start_page": 205,
+              "end_page": 208,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Identification of Potential Wine Panelists",
+              "node_id": "0117",
+              "start_page": 209,
+              "end_page": 209,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Testing and Training",
+              "node_id": "0118",
+              "start_page": 210,
+              "end_page": 212,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Basic Selection Tests",
+                  "node_id": "0119",
+                  "start_page": 213,
+                  "end_page": 213,
+                  "summary": "",
+                  "nodes": [
+                    {
+                      "title": "Taste Recognition",
+                      "node_id": "0120",
+                      "start_page": 213,
+                      "end_page": 213,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Taste Acuity",
+                      "node_id": "0121",
+                      "start_page": 213,
+                      "end_page": 214,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Relative Sensitivity (Sweetness)",
+                      "node_id": "0122",
+                      "start_page": 215,
+                      "end_page": 215,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Threshold Assessment",
+                      "node_id": "0123",
+                      "start_page": 216,
+                      "end_page": 217,
+                      "summary": "",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Odor Recognition Tests",
+                  "node_id": "0124",
+                  "start_page": 218,
+                  "end_page": 218,
+                  "summary": "",
+                  "nodes": [
+                    {
+                      "title": "Fragrance (Aroma and Bouquet)",
+                      "node_id": "0125",
+                      "start_page": 218,
+                      "end_page": 218,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Off-Odors: Basic Test",
+                      "node_id": "0126",
+                      "start_page": 218,
+                      "end_page": 219,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Off-Odors in Different Wines",
+                      "node_id": "0127",
+                      "start_page": 220,
+                      "end_page": 220,
+                      "summary": "",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Discrimination Tests",
+                  "node_id": "0128",
+                  "start_page": 220,
+                  "end_page": 220,
+                  "summary": "",
+                  "nodes": [
+                    {
+                      "title": "Varietal Dilution",
+                      "node_id": "0129",
+                      "start_page": 220,
+                      "end_page": 221,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Varietal Differentiation",
+                      "node_id": "0130",
+                      "start_page": 222,
+                      "end_page": 223,
+                      "summary": "",
+                      "nodes": []
+                    },
+                    {
+                      "title": "Short-Term Wine Memory",
+                      "node_id": "0131",
+                      "start_page": 224,
+                      "end_page": 224,
+                      "summary": "",
+                      "nodes": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Taster Training",
+                  "node_id": "0132",
+                  "start_page": 225,
+                  "end_page": 225,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Assessing Taster and Panel Accuracy",
+              "node_id": "0133",
+              "start_page": 226,
+              "end_page": 227,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Score Variability",
+                  "node_id": "0134",
+                  "start_page": 228,
+                  "end_page": 230,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Summary",
+              "node_id": "0135",
+              "start_page": 231,
+              "end_page": 231,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Pre-Tasting Organization",
+          "node_id": "0136",
+          "start_page": 231,
+          "end_page": 231,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Tasting Area",
+              "node_id": "0137",
+              "start_page": 231,
+              "end_page": 234,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Number of Samples",
+              "node_id": "0138",
+              "start_page": 235,
+              "end_page": 235,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Replicates",
+              "node_id": "0139",
+              "start_page": 236,
+              "end_page": 236,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Temperature",
+              "node_id": "0140",
+              "start_page": 236,
+              "end_page": 237,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Cork Removal",
+              "node_id": "0141",
+              "start_page": 238,
+              "end_page": 238,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Decanting and Pouring",
+              "node_id": "0142",
+              "start_page": 238,
+              "end_page": 238,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sample Volume",
+              "node_id": "0143",
+              "start_page": 239,
+              "end_page": 239,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Dispensers",
+              "node_id": "0144",
+              "start_page": 239,
+              "end_page": 239,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Representative Samples",
+              "node_id": "0145",
+              "start_page": 239,
+              "end_page": 239,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Glasses",
+              "node_id": "0146",
+              "start_page": 240,
+              "end_page": 242,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Number of Tasters",
+              "node_id": "0147",
+              "start_page": 243,
+              "end_page": 243,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Tasting Design",
+          "node_id": "0148",
+          "start_page": 244,
+          "end_page": 244,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Information Provided",
+              "node_id": "0149",
+              "start_page": 244,
+              "end_page": 244,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Preparing Samples",
+              "node_id": "0150",
+              "start_page": 245,
+              "end_page": 245,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sources of Perceptive Error",
+              "node_id": "0151",
+              "start_page": 245,
+              "end_page": 247,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Timing",
+              "node_id": "0152",
+              "start_page": 248,
+              "end_page": 248,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Wine Terminology",
+          "node_id": "0153",
+          "start_page": 249,
+          "end_page": 255,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Wine Evaluation",
+          "node_id": "0154",
+          "start_page": 256,
+          "end_page": 256,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Score Sheets",
+              "node_id": "0155",
+              "start_page": 256,
+              "end_page": 264,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Statistical Analysis",
+              "node_id": "0156",
+              "start_page": 265,
+              "end_page": 266,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Simple Tests",
+                  "node_id": "0157",
+                  "start_page": 267,
+                  "end_page": 269,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Multivariate Techniques",
+                  "node_id": "0158",
+                  "start_page": 270,
+                  "end_page": 272,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Pertinence of Tasting Results",
+                  "node_id": "0159",
+                  "start_page": 273,
+                  "end_page": 273,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sensory Analysis",
+          "node_id": "0160",
+          "start_page": 273,
+          "end_page": 273,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Discrimination Testing",
+              "node_id": "0161",
+              "start_page": 274,
+              "end_page": 275,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Scaling Tests",
+              "node_id": "0162",
+              "start_page": 276,
+              "end_page": 278,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Descriptive Sensory Analysis",
+              "node_id": "0163",
+              "start_page": 279,
+              "end_page": 290,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Time-Intensity (TI) Analysis",
+              "node_id": "0164",
+              "start_page": 291,
+              "end_page": 293,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "CHARM Analysis",
+              "node_id": "0165",
+              "start_page": 294,
+              "end_page": 294,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Finger Span Cross Modality (FSCM) Matching",
+              "node_id": "0166",
+              "start_page": 294,
+              "end_page": 294,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Chemical Measures of Wine Quality",
+          "node_id": "0167",
+          "start_page": 295,
+          "end_page": 295,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Standard Chemical Analyses",
+              "node_id": "0168",
+              "start_page": 295,
+              "end_page": 296,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Electronic Noses",
+              "node_id": "0169",
+              "start_page": 297,
+              "end_page": 300,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Occupational Hazards of Wine Tasting",
+          "node_id": "0170",
+          "start_page": 301,
+          "end_page": 312,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0171",
+          "start_page": 313,
+          "end_page": 313,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0172",
+          "start_page": 314,
+          "end_page": 325,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: Qualitative Wine Assessment",
+      "node_id": "0173",
+      "start_page": 326,
+      "end_page": 326,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Tasting Room",
+          "node_id": "0174",
+          "start_page": 327,
+          "end_page": 327,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Information Provided",
+          "node_id": "0175",
+          "start_page": 328,
+          "end_page": 328,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Sample Preparation",
+          "node_id": "0176",
+          "start_page": 328,
+          "end_page": 328,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Decanting and Breathing",
+              "node_id": "0177",
+              "start_page": 328,
+              "end_page": 330,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Temperature",
+              "node_id": "0178",
+              "start_page": 331,
+              "end_page": 331,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Glasses",
+              "node_id": "0179",
+              "start_page": 332,
+              "end_page": 332,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Sample Number and Volume",
+              "node_id": "0180",
+              "start_page": 333,
+              "end_page": 333,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Cork Removal",
+              "node_id": "0181",
+              "start_page": 334,
+              "end_page": 334,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Palate Cleansing",
+              "node_id": "0182",
+              "start_page": 335,
+              "end_page": 335,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Language",
+              "node_id": "0183",
+              "start_page": 336,
+              "end_page": 339,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Wine Score Sheets",
+          "node_id": "0184",
+          "start_page": 340,
+          "end_page": 341,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Sensory Training Exercises",
+          "node_id": "0185",
+          "start_page": 342,
+          "end_page": 342,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Staff Training for Medium to Small Wineries",
+              "node_id": "0186",
+              "start_page": 343,
+              "end_page": 344,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Tasting Situations",
+          "node_id": "0187",
+          "start_page": 345,
+          "end_page": 345,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Wine Competitions",
+              "node_id": "0188",
+              "start_page": 345,
+              "end_page": 346,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Consumer Preference Tastings",
+              "node_id": "0189",
+              "start_page": 347,
+              "end_page": 349,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Trade Tastings",
+              "node_id": "0190",
+              "start_page": 350,
+              "end_page": 350,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "In-Store Tastings",
+              "node_id": "0191",
+              "start_page": 351,
+              "end_page": 351,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Wine Appreciation Courses",
+              "node_id": "0192",
+              "start_page": 352,
+              "end_page": 355,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Wine Tasting Societies",
+              "node_id": "0193",
+              "start_page": 356,
+              "end_page": 358,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Home Tastings",
+              "node_id": "0194",
+              "start_page": 359,
+              "end_page": 359,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Appendices",
+          "node_id": "0195",
+          "start_page": 360,
+          "end_page": 360,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Appendix 6.1 Sweetness in Wine",
+              "node_id": "0196",
+              "start_page": 360,
+              "end_page": 360,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Appendix 6.2 Sourness",
+              "node_id": "0197",
+              "start_page": 361,
+              "end_page": 361,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Appendix 6.3 Phenolic Components",
+              "node_id": "0198",
+              "start_page": 362,
+              "end_page": 362,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "A. Bitterness and Astringency",
+                  "node_id": "0199",
+                  "start_page": 362,
+                  "end_page": 362,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "B. Oak",
+                  "node_id": "0200",
+                  "start_page": 363,
+                  "end_page": 363,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Appendix 6.4 Alcoholic Wine Constituents",
+              "node_id": "0201",
+              "start_page": 364,
+              "end_page": 364,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Ethanol",
+                  "node_id": "0202",
+                  "start_page": 364,
+                  "end_page": 364,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Glycerol",
+                  "node_id": "0203",
+                  "start_page": 365,
+                  "end_page": 365,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Appendix 6.5 Taste Interaction",
+              "node_id": "0204",
+              "start_page": 365,
+              "end_page": 365,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Sweet-Bitter Interactions",
+                  "node_id": "0205",
+                  "start_page": 366,
+                  "end_page": 366,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Sweet-Sour Balance",
+                  "node_id": "0206",
+                  "start_page": 367,
+                  "end_page": 367,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0207",
+          "start_page": 367,
+          "end_page": 367,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0208",
+          "start_page": 368,
+          "end_page": 371,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7: Styles and Types of Wine",
+      "node_id": "0209",
+      "start_page": 372,
+      "end_page": 373,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Still Table Wines",
+          "node_id": "0210",
+          "start_page": 374,
+          "end_page": 375,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "White Cultivars",
+              "node_id": "0211",
+              "start_page": 376,
+              "end_page": 376,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Red Cultivars",
+              "node_id": "0212",
+              "start_page": 377,
+              "end_page": 378,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Production Procedures",
+              "node_id": "0213",
+              "start_page": 379,
+              "end_page": 379,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Prior to Fermentation",
+                  "node_id": "0214",
+                  "start_page": 379,
+                  "end_page": 382,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "During Fermentation",
+                  "node_id": "0215",
+                  "start_page": 383,
+                  "end_page": 383,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "After Fermentation",
+                  "node_id": "0216",
+                  "start_page": 384,
+                  "end_page": 384,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "White Wine Styles",
+              "node_id": "0217",
+              "start_page": 385,
+              "end_page": 388,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Red Wine Styles",
+              "node_id": "0218",
+              "start_page": 389,
+              "end_page": 393,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Rosé Wine Styles",
+              "node_id": "0219",
+              "start_page": 394,
+              "end_page": 394,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Sparkling Wines",
+          "node_id": "0220",
+          "start_page": 395,
+          "end_page": 399,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Fortified Wines (Dessert and Appetizer Wines)",
+          "node_id": "0221",
+          "start_page": 400,
+          "end_page": 401,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Sherry",
+              "node_id": "0222",
+              "start_page": 402,
+              "end_page": 403,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Port",
+              "node_id": "0223",
+              "start_page": 404,
+              "end_page": 406,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Madeira",
+              "node_id": "0224",
+              "start_page": 407,
+              "end_page": 407,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Vermouth",
+              "node_id": "0225",
+              "start_page": 407,
+              "end_page": 407,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Brandy",
+          "node_id": "0226",
+          "start_page": 407,
+          "end_page": 407,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0227",
+          "start_page": 408,
+          "end_page": 408,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0228",
+          "start_page": 408,
+          "end_page": 409,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8: Nature and Origins of Wine Quality",
+      "node_id": "0229",
+      "start_page": 410,
+      "end_page": 412,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Sources of Quality",
+          "node_id": "0230",
+          "start_page": 413,
+          "end_page": 413,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Vineyard Influences",
+          "node_id": "0231",
+          "start_page": 414,
+          "end_page": 414,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Macroclimate",
+              "node_id": "0232",
+              "start_page": 415,
+              "end_page": 415,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Microclimate",
+              "node_id": "0233",
+              "start_page": 415,
+              "end_page": 417,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Species, Variety, and Clone",
+              "node_id": "0234",
+              "start_page": 418,
+              "end_page": 418,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Rootstock",
+              "node_id": "0235",
+              "start_page": 419,
+              "end_page": 420,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Yield",
+              "node_id": "0236",
+              "start_page": 421,
+              "end_page": 422,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Training",
+              "node_id": "0237",
+              "start_page": 423,
+              "end_page": 423,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Nutrition and Irrigation",
+              "node_id": "0238",
+              "start_page": 424,
+              "end_page": 424,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Disease",
+              "node_id": "0239",
+              "start_page": 425,
+              "end_page": 425,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Maturity",
+              "node_id": "0240",
+              "start_page": 425,
+              "end_page": 425,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Winery",
+          "node_id": "0241",
+          "start_page": 426,
+          "end_page": 426,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Winemaker",
+              "node_id": "0242",
+              "start_page": 426,
+              "end_page": 426,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Prefermentation Processes",
+              "node_id": "0243",
+              "start_page": 427,
+              "end_page": 428,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Fermentation",
+              "node_id": "0244",
+              "start_page": 429,
+              "end_page": 429,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Fermentor",
+                  "node_id": "0245",
+                  "start_page": 429,
+                  "end_page": 429,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Yeasts",
+                  "node_id": "0246",
+                  "start_page": 430,
+                  "end_page": 430,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Lactic Acid Bacteria",
+                  "node_id": "0247",
+                  "start_page": 430,
+                  "end_page": 432,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            },
+            {
+              "title": "Postfermentation Influences",
+              "node_id": "0248",
+              "start_page": 433,
+              "end_page": 433,
+              "summary": "",
+              "nodes": [
+                {
+                  "title": "Adjustments",
+                  "node_id": "0249",
+                  "start_page": 433,
+                  "end_page": 433,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Blending",
+                  "node_id": "0250",
+                  "start_page": 433,
+                  "end_page": 433,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Processing",
+                  "node_id": "0251",
+                  "start_page": 434,
+                  "end_page": 434,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Oak",
+                  "node_id": "0252",
+                  "start_page": 434,
+                  "end_page": 435,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Bottle Closure",
+                  "node_id": "0253",
+                  "start_page": 436,
+                  "end_page": 436,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Aging",
+                  "node_id": "0254",
+                  "start_page": 437,
+                  "end_page": 440,
+                  "summary": "",
+                  "nodes": []
+                },
+                {
+                  "title": "Aging Potential",
+                  "node_id": "0255",
+                  "start_page": 441,
+                  "end_page": 442,
+                  "summary": "",
+                  "nodes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chemistry",
+          "node_id": "0256",
+          "start_page": 443,
+          "end_page": 444,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0257",
+          "start_page": 445,
+          "end_page": 445,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0258",
+          "start_page": 445,
+          "end_page": 449,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9: Wine and Food Combination",
+      "node_id": "0259",
+      "start_page": 450,
+      "end_page": 450,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Introduction",
+          "node_id": "0260",
+          "start_page": 450,
+          "end_page": 457,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Wine Selection",
+          "node_id": "0261",
+          "start_page": 458,
+          "end_page": 458,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Historical Origins of Food and Wine Combination",
+          "node_id": "0262",
+          "start_page": 459,
+          "end_page": 461,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Concept of Flavor Principles",
+          "node_id": "0263",
+          "start_page": 462,
+          "end_page": 462,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Food and Wine Pairing",
+          "node_id": "0264",
+          "start_page": 463,
+          "end_page": 470,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Uses in Food Preparation",
+          "node_id": "0265",
+          "start_page": 471,
+          "end_page": 471,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Basic Roles",
+              "node_id": "0266",
+              "start_page": 471,
+              "end_page": 471,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Involvement in Food Preparation",
+              "node_id": "0267",
+              "start_page": 472,
+              "end_page": 472,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Types of Occasions",
+          "node_id": "0268",
+          "start_page": 473,
+          "end_page": 473,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Wine Presentation",
+          "node_id": "0269",
+          "start_page": 473,
+          "end_page": 473,
+          "summary": "",
+          "nodes": [
+            {
+              "title": "Presentation Sequence",
+              "node_id": "0270",
+              "start_page": 473,
+              "end_page": 474,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Cellaring",
+              "node_id": "0271",
+              "start_page": 475,
+              "end_page": 475,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Glasses",
+              "node_id": "0272",
+              "start_page": 476,
+              "end_page": 476,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Serving Temperature",
+              "node_id": "0273",
+              "start_page": 477,
+              "end_page": 477,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Breathing",
+              "node_id": "0274",
+              "start_page": 477,
+              "end_page": 477,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Wine Preservation after Opening",
+              "node_id": "0275",
+              "start_page": 477,
+              "end_page": 479,
+              "summary": "",
+              "nodes": []
+            },
+            {
+              "title": "Label Removal",
+              "node_id": "0276",
+              "start_page": 480,
+              "end_page": 480,
+              "summary": "",
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "title": "Final Note",
+          "node_id": "0277",
+          "start_page": 481,
+          "end_page": 481,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "Suggested Readings",
+          "node_id": "0278",
+          "start_page": 481,
+          "end_page": 481,
+          "summary": "",
+          "nodes": []
+        },
+        {
+          "title": "References",
+          "node_id": "0279",
+          "start_page": 482,
+          "end_page": 487,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "Glossary",
+      "node_id": "0280",
+      "start_page": 488,
+      "end_page": 491,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Tasting Term Glossary",
+      "node_id": "0281",
+      "start_page": 492,
+      "end_page": 495,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Index",
+      "node_id": "0282",
+      "start_page": 496,
+      "end_page": 507,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Food Science and Technology International Series",
+      "node_id": "0283",
+      "start_page": 508,
+      "end_page": 511,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Color Plate Section",
+      "node_id": "0284",
+      "start_page": 512,
+      "end_page": 519,
+      "summary": "",
+      "nodes": []
+    }
+  ]
+}

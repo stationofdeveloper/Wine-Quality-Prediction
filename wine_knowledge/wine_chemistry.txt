@@ -1,0 +1,41 @@
+WINE CHEMISTRY KNOWLEDGE BASE
+==============================
+
+FIXED ACIDITY
+Fixed acidity refers to the concentration of non-volatile acids in wine, primarily tartaric acid. It contributes to the overall acidic taste and helps preserve the wine. Typical range for red wine: 4.6 to 15.9 g/L. Higher fixed acidity generally gives a crisper, fresher taste. Values above 12 may make wine too tart. Fixed acidity helps balance sweetness and prevents bacterial growth.
+
+VOLATILE ACIDITY
+Volatile acidity is primarily caused by acetic acid (vinegar). It is a sign of bacterial spoilage if levels are too high. Acceptable range: 0.1 to 0.6 g/L for quality wines. Above 0.7 g/L the wine develops a vinegar-like taste that most tasters find unpleasant. Low volatile acidity (under 0.4) is associated with higher quality wines. Volatile acidity is one of the strongest predictors of poor wine quality.
+
+CITRIC ACID
+Citric acid adds freshness and flavor complexity to wine. It is found in small quantities in grapes. Range: 0 to 1 g/L. It acts as a preservative and enhances fruity characteristics. Wines with citric acid around 0.3 to 0.5 g/L often score better on freshness. Too much citric acid can make wine taste harsh.
+
+RESIDUAL SUGAR
+Residual sugar is the amount of sugar remaining after fermentation. Dry wines have less than 4 g/L. Off-dry wines: 4 to 12 g/L. Sweet wines: above 12 g/L. Most red wines are dry with residual sugar below 3 g/L. Higher residual sugar can mask other defects but also adds calories. Residual sugar interacts with acidity to determine the perceived sweetness-dryness balance.
+
+CHLORIDES
+Chlorides (sodium chloride and others) give wine a salty taste in high concentrations. Normal range: 0.012 to 0.611 g/L. Low chloride content (under 0.1) is associated with better quality wines. High chlorides above 0.2 g/L can give a salty, unpleasant taste. Chloride levels are influenced by soil composition and irrigation water quality.
+
+FREE SULFUR DIOXIDE
+Free SO2 is the active form of sulfur dioxide that protects wine. It prevents oxidation and microbial spoilage. Target range for red wine: 10 to 40 mg/L. Too little free SO2 allows wine to oxidize quickly. Too much can give a sulfurous smell. The ratio of free to total SO2 is important for wine stability.
+
+TOTAL SULFUR DIOXIDE
+Total SO2 includes both free and bound forms. Legal maximum in most countries: 150 mg/L for red wine, 200 mg/L for white. Values above 150 are detectable as a pungent smell. Lower total SO2 is generally preferred in natural winemaking. Red wines naturally need less SO2 than white wines due to their tannin content, which also acts as an antioxidant.
+
+DENSITY
+Wine density is very close to water (1.0 g/mL). Red wine density typically ranges from 0.990 to 1.004 g/mL. Higher density indicates more residual sugar or dissolved solids. Density decreases as alcohol content increases. Density measurement is used to estimate alcohol content during fermentation.
+
+PH
+pH measures acidity on a logarithmic scale. Lower pH = more acidic. Red wine pH typically ranges from 3.1 to 3.8. Below 3.3 is considered high acidity. Above 3.6 is considered low acidity (flat taste). Optimal range for quality red wine: 3.3 to 3.6. pH affects color stability, microbial stability, and perceived taste.
+
+SULPHATES
+Potassium metabisulphite (sulphates) acts as an antimicrobial and antioxidant in wine. Typical range: 0.33 to 2.0 g/L. Moderate levels (0.5 to 0.8 g/L) are associated with better quality. Sulphates enhance perceived fruitiness and protect wine during aging. Too much sulphate gives a bitter taste.
+
+ALCOHOL
+Alcohol is the primary fermentation product. Red wine alcohol typically ranges from 8% to 15% ABV. Higher alcohol wines generally score better in quality assessments. The optimal range for quality red wine is 11% to 13.5%. Alcohol contributes to body, warmth, and mouthfeel. Very high alcohol (above 15%) can make wine taste hot and unbalanced.
+
+QUALITY SCORING
+Wine quality is scored by expert sommeliers on a scale of 0 to 10. In this dataset: 3 is very poor, 4 is poor, 5 is average, 6 is good, 7 is very good, 8 is excellent. Scores of 9 and 10 are extremely rare in red wine datasets. The most common scores are 5 and 6. Wines scoring 7 or above represent the top 13% of the dataset.
+
+WINE MAKING PROCESS
+Red wine is made by crushing red or black grapes and fermenting with skins. The skins give color, tannins, and flavor compounds. Fermentation converts sugar to alcohol using yeast. Malolactic fermentation converts sharp malic acid to softer lactic acid. Aging in oak barrels adds vanilla, toast, and spice notes. Bottle aging allows flavors to integrate and develop complexity.

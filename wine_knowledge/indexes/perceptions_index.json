@@ -1,0 +1,65 @@
+{
+  "book_id": "perceptions",
+  "title": "Perceptions of Wine Quality",
+  "total_pages": 406,
+  "description": "This book, \"Perceptions of Wine Quality,\" explores the concept of wine quality from the perspective of drinkers, producers, and marketers. It examines how different types of drinkers conceptualize quality, the dimensions they consider, and how they evaluate wine in diverse psychophysical ways. The study aims to understand the nature and features of wine quality, its relevance, and how it is perceived by various stakeholders in the wine industry.",
+  "nodes": [
+    {
+      "title": "Perceptions of wine quality",
+      "node_id": "0000",
+      "start_page": 1,
+      "end_page": 1,
+      "summary": "",
+      "nodes": [
+        {
+          "title": "Recommended Citation",
+          "node_id": "0001",
+          "start_page": 1,
+          "end_page": 3,
+          "summary": "",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "node_id": "0002",
+      "start_page": 4,
+      "end_page": 5,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "DECLARATION",
+      "node_id": "0003",
+      "start_page": 6,
+      "end_page": 6,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "node_id": "0004",
+      "start_page": 7,
+      "end_page": 16,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "FIGURES AND TABLES",
+      "node_id": "0005",
+      "start_page": 17,
+      "end_page": 17,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "LIST OF ABBREVIATIONS",
+      "node_id": "0006",
+      "start_page": 18,
+      "end_page": 406,
+      "summary": "",
+      "nodes": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "book_id": "chemistry",
+  "title": "Chemistry and Biochemistry of Winemaking, Wine Stabilization and Aging",
+  "total_pages": 258,
+  "description": "This book, \"Chemistry and Biochemistry of Winemaking, Wine Stabilization and Aging,\" edited by Fernanda Cosme, Fernando M. Nunes, and Luís Filipe-Ribeiro, covers the chemical and biochemical aspects of winemaking, wine stabilization, and aging. It explores the scientific principles behind the production, processing, and preservation of wine, including the chemical reactions and biological processes involved. The book is a comprehensive resource for understanding the chemistry and biochemistry of winemaking.",
+  "nodes": [
+    {
+      "title": "Chemistry and Biochemistry of Winemaking, Wine Stabilization and Aging",
+      "node_id": "0000",
+      "start_page": 1,
+      "end_page": 12,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Preface",
+      "node_id": "0001",
+      "start_page": 13,
+      "end_page": 13,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Contents",
+      "node_id": "0002",
+      "start_page": 11,
+      "end_page": 16,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter1\nPhenolic Compounds of Grapes and Wines: Key Compounds and Implications in Sensory Perception",
+      "node_id": "0003",
+      "start_page": 17,
+      "end_page": 42,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter2\nEmerging Technologies to Increase Extraction, Control Microorganisms, and Reduce SO",
+      "node_id": "0004",
+      "start_page": 43,
+      "end_page": 62,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter3\nManagement of Wine Aroma Compounds: Principal Basis and Future Perspectives",
+      "node_id": "0005",
+      "start_page": 63,
+      "end_page": 86,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter4\nFormation of Aromatic and Flavor Compounds inWine: A Perspective of Positive and Negative Contributions of Non- Yeasts",
+      "node_id": "0006",
+      "start_page": 87,
+      "end_page": 110,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter5\nChemistry and Technology of Wine Aging with Oak Chips",
+      "node_id": "0007",
+      "start_page": 111,
+      "end_page": 136,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter6\nPortWine: Production and Ageing",
+      "node_id": "0008",
+      "start_page": 137,
+      "end_page": 160,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter7\nSalivary Protein-Tannin Interaction: The Binding behind Astringency",
+      "node_id": "0009",
+      "start_page": 161,
+      "end_page": 188,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter8\nWine Stabilisation: An Overview of Defects and Treatments",
+      "node_id": "0010",
+      "start_page": 189,
+      "end_page": 220,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter9\nPathogenesis-Related Proteins inWine and WhiteWine Protein Stabilization",
+      "node_id": "0011",
+      "start_page": 221,
+      "end_page": 238,
+      "summary": "",
+      "nodes": []
+    },
+    {
+      "title": "Chapter10\nCork and Cork Stoppers: Quality and Performance",
+      "node_id": "0012",
+      "start_page": 239,
+      "end_page": 258,
+      "summary": "",
+      "nodes": []
+    }
+  ]
+}

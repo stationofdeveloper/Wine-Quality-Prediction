@@ -1,0 +1,49 @@
+WINE TASTING NOTES AND IMPROVEMENT GUIDE
+==========================================
+
+HOW TO READ WINE QUALITY SCORES
+Wine quality scores from 3 to 8 reflect the overall sensory experience judged by trained sommeliers. A score of 3 represents a deeply flawed wine with significant defects. A score of 4 is poor — noticeable flaws but drinkable in casual settings. Score 5 is average — commercially acceptable, no major faults. Score 6 is good — pleasant, represents most table wines. Score 7 is very good — notable quality, above average character. Score 8 is excellent — outstanding complexity and balance.
+
+TASTING NOTES FOR HIGH VOLATILE ACIDITY
+Wines with volatile acidity above 0.7 g/L typically show tasting notes of: vinegar, nail polish remover, sour, acetic, sharp, harsh on the palate. These wines are considered flawed. The primary cause is acetobacter bacteria converting alcohol to acetic acid. Prevention includes proper hygiene during winemaking and adequate sulfur dioxide levels.
+
+TASTING NOTES FOR HIGH ALCOHOL
+Red wines with alcohol above 13.5% typically taste: warming, full-bodied, rich, jammy, powerful. The warmth is felt at the back of the throat. High alcohol can sometimes taste hot or burning if unbalanced. The best high-alcohol wines have corresponding richness in fruit and body to balance the heat.
+
+TASTING NOTES FOR LOW PH (HIGH ACIDITY)
+Wines with pH below 3.3 taste: tart, crisp, refreshing, zesty, bright. High acidity makes your mouth water. These wines age well because acidity acts as a preservative. They pair well with food and feel lively on the palate. Too much acidity (pH below 3.0) can taste harsh and unpleasant.
+
+TASTING NOTES FOR BALANCED SULPHATES
+Wines with sulphate levels around 0.5 to 0.8 g/L typically show: fruity complexity, enhanced preservation, clean finish. Sulphates enhance the wine's antioxidant character without adding negative flavors. Very low sulphates can lead to premature oxidation and flat, cardboard-like flavors.
+
+HOW TO IMPROVE WINE QUALITY AT HOME (WINEMAKER'S GUIDE)
+
+To reduce volatile acidity: Maintain strict hygiene, use sulfur dioxide early in fermentation, keep vessels topped up to prevent oxidation, ferment at cooler temperatures (below 25°C).
+
+To improve alcohol balance: Harvest grapes at optimal ripeness. Avoid over-ripe grapes which give excessively high sugar and therefore high alcohol. Partial dealcoholization is possible in commercial winemaking.
+
+To optimize pH: Add tartaric acid to lower pH in warm vintage years. Perform malolactic fermentation to raise pH and soften acidity in cool years.
+
+To improve residual sugar balance: Ferment to completion for dry wines. For off-dry styles, stop fermentation at target sugar level by chilling or adding sulfur dioxide.
+
+To enhance sulphate levels naturally: Allow lees contact (keeping wine on spent yeast) which releases compounds that improve body and complexity. Some winemakers add potassium metabisulphite directly.
+
+AROMA DESCRIPTORS BY CHEMICAL PROFILE
+
+Fruity aromas (cherry, plum, raspberry): Associated with good fermentation, moderate alcohol, balanced acidity.
+
+Earthy aromas (leather, tobacco, mushroom): Associated with aged wines, specific yeast strains, terroir expression.
+
+Spicy aromas (pepper, clove, cinnamon): Often from oak aging or specific grape varieties (Syrah is known for black pepper notes).
+
+Floral aromas (violet, rose): Associated with young wines, moderate pH, lower tannins.
+
+Off-aromas (vinegar, nail polish): Volatile acidity — indicates bacterial spoilage.
+Off-aromas (rotten egg, struck match): Sulfur compounds — indicates reduction or excessive SO2 addition.
+Off-aromas (wet cardboard, cork): TCA contamination from faulty corks — unrelated to chemical measurements in this dataset.
+
+WINE AGING POTENTIAL
+High quality wines (score 7-8) with balanced acidity, moderate tannins, and appropriate alcohol have excellent aging potential of 5 to 15 years. Medium quality wines (score 5-6) are best enjoyed within 2 to 5 years. Wines with high volatile acidity do not improve with age and should be consumed immediately or used for cooking.
+
+WHAT MAKES A PERFECT RED WINE
+Balance is the key principle. No single element should dominate. The ideal red wine has alcohol between 12% and 14%, volatile acidity below 0.5, pH between 3.3 and 3.6, sulphates around 0.6 to 0.8, citric acid around 0.3 to 0.5, and residual sugar below 3 g/L. When all these components are in harmony, the wine expresses complexity, freshness, and pleasure simultaneously.
