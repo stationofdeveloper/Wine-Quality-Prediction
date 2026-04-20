@@ -102,6 +102,37 @@ st.markdown("""
     background: #fffbf0; border-left: 4px solid #d69e2e;
     border-radius: 6px; padding: 9px 13px; margin: 4px 0; font-size: 0.9rem;
   }
+
+  /* ── Source info cards (shown before LLM answer) ── */
+  .source-card {
+    background: linear-gradient(135deg, #fdf6f0 0%, #fef9f4 100%);
+    border: 1.5px solid #e8c8a0;
+    border-left: 4px solid #7c0a02;
+    border-radius: 10px;
+    padding: 14px 18px;
+    margin: 6px 0;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    box-shadow: 0 2px 6px rgba(124,10,2,0.06);
+  }
+  .source-card .sc-header {
+    font-weight: 700; color: #7c0a02;
+    font-size: 0.92rem; margin-bottom: 6px;
+  }
+  .source-card .sc-meta {
+    color: #555; font-size: 0.84rem; margin: 2px 0;
+  }
+  .source-card .sc-preview {
+    color: #666; font-size: 0.82rem; font-style: italic;
+    margin-top: 6px; padding-top: 6px;
+    border-top: 1px dashed #ddd;
+  }
+  .source-cards-label {
+    font-size: 0.82rem; font-weight: 600;
+    color: #7c0a02; text-transform: uppercase;
+    letter-spacing: 0.5px; margin-bottom: 4px;
+  }
+
   .page-title {
     font-size: 2.2rem; font-weight: 800;
     background: linear-gradient(135deg, #7c0a02, #c0392b);
@@ -656,6 +687,27 @@ elif st.session_state.page == "chatbot":
                 st.session_state["submit_prompt"] = s
                 st.rerun()
 
+    # ── Helper: render source cards ─────────────────────────────────────────────
+    def _render_source_cards(sources: list[dict]):
+        """Render retrieved-source info cards above the LLM answer."""
+        if not sources:
+            return
+        st.markdown('<p class="source-cards-label">📖 Retrieved from knowledge base</p>',
+                    unsafe_allow_html=True)
+        for src in sources:
+            preview = src.get("preview", "")[:250]
+            if len(src.get("preview", "")) > 250:
+                preview += "…"
+            card_html = (
+                f'<div class="source-card">'
+                f'<div class="sc-header">{src.get("book_emoji", "📖")} {src.get("book_title", "Unknown Book")}</div>'
+                f'<div class="sc-meta">📑 <b>Section:</b> {src.get("section", "N/A")}</div>'
+                f'<div class="sc-meta">📄 <b>Pages:</b> {src.get("pages", "?")}</div>'
+                f'<div class="sc-preview">👁️ {preview}</div>'
+                f'</div>'
+            )
+            st.markdown(card_html, unsafe_allow_html=True)
+
     # ── Chat History Rendering (Gemini Style) ──────────────────────────────────
     for msg in st.session_state.chat_messages:
         avatar = "👤" if msg["role"] == "user" else "🍷"
@@ -663,6 +715,9 @@ elif st.session_state.page == "chatbot":
             content = msg["content"]
             
             if msg["role"] == "assistant":
+                # Show source cards above the answer (if any were retrieved)
+                _render_source_cards(msg.get("sources", []))
+
                 if "📚 Sources:" in content:
                     main, cite = content.split("📚 Sources:", 1)
                     st.markdown(main.strip())
@@ -692,8 +747,24 @@ elif st.session_state.page == "chatbot":
         st.session_state.step_log = []
         with st.chat_message("assistant", avatar="🍷"):
             prog = st.empty()
-            
+            retrieved_sources = []   # collect RETRIEVE:: events
+
             def cb(msg):
+                # Detect structured RETRIEVE:: events from the RAG agent
+                if msg.startswith("RETRIEVE::"):
+                    try:
+                        import json as _json
+                        payload = _json.loads(msg[len("RETRIEVE::"):])
+                        retrieved_sources.append(payload)
+                        # Show a brief progress note for each retrieval
+                        prog.markdown(
+                            f"*📖 Found relevant content in "
+                            f"**{payload.get('book_title','')}** "
+                            f"(p. {payload.get('pages','')})…*"
+                        )
+                    except Exception:
+                        pass
+                    return
                 st.session_state.step_log.append(msg)
                 prog.markdown(f"*{msg}...*")
 
@@ -724,6 +795,9 @@ elif st.session_state.page == "chatbot":
 
             prog.empty()
 
+            # Show source cards BEFORE the answer
+            _render_source_cards(retrieved_sources)
+
             # Write answer
             if "📚 Sources:" in final:
                 main_txt, cite_txt = final.split("📚 Sources:", 1)
@@ -735,10 +809,11 @@ elif st.session_state.page == "chatbot":
             if audio_data:
                 st.audio(audio_data, format="audio/mp3")
 
-        # 3. Save to state
+        # 3. Save to state (include sources for history re-rendering)
         st.session_state.chat_messages.append({
             "role": "assistant", 
             "content": final, 
+            "sources": retrieved_sources,
             "audio": audio_data
         })
 
