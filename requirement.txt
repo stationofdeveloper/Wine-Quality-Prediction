@@ -3,3 +3,6 @@ matplotlib
 pandas
 numpy
 scikit-learn
+groq
+gtts
+PyMuPDF
