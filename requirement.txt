@@ -7,3 +7,5 @@ groq
 gtts
 PyMuPDF
 seaborn
+python-dotenv
+joblib
