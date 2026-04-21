@@ -731,7 +731,7 @@ elif st.session_state.page == "chatbot":
                 st.markdown(content)
 
     # ── Input & Processing Logic ───────────────────────────────────────────────
-    user_q = st.chat_input("Ask anything about wine... e.g. What role do tannins play?")
+    user_q = st.chat_input("Ask anything about wine...")
     
     # Check if a suggestion button was clicked
     if "submit_prompt" in st.session_state and st.session_state["submit_prompt"]:
