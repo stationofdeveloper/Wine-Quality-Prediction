@@ -5,6 +5,3 @@ __pycache__/
 .ipynb_checkpoints/
 anaconda_projects/
 chroma_db/
-*.pkl
-wine_knowledge/*.pdf
-wine_knowledge/indexes/
