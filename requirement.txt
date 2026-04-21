@@ -6,3 +6,4 @@ scikit-learn
 groq
 gtts
 PyMuPDF
+seaborn
