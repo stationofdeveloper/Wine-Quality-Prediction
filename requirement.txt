@@ -9,3 +9,4 @@ PyMuPDF
 seaborn
 python-dotenv
 joblib
+shap
