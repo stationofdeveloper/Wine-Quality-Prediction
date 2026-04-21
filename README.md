@@ -144,6 +144,7 @@ This project implements a next-generation retrieval strategy inspired by **PageI
 
 **Your Name**
 - GitHub: [@stationofdeveloper](https://github.com/stationofdeveloper)
+- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 
 ---
 
