@@ -10,4 +10,3 @@ seaborn
 python-dotenv
 joblib
 shap
-genai
